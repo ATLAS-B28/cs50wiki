@@ -1,0 +1,1 @@
+Nodejs is a JS runtime, developed to create APIs and applications on servers
